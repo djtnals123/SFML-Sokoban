@@ -1,0 +1,14 @@
+﻿1>------ Build started: Project: SFML-SOKOBAN, Configuration: Debug Win32 ------
+1>  Source.cpp
+1>c:\sfml-2.4.0\include\sfml\window\windowhandle.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+1>c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(157): warning C4715: 'Sokoban::findLocation': not all control paths return a value
+1>  SFML-SOKOBAN.vcxproj -> C:\Users\d\documents\visual studio 2015\Projects\SFML-SOKOBAN\Debug\SFML-SOKOBAN.exe
+1>  SFML-SOKOBAN.vcxproj -> C:\Users\d\documents\visual studio 2015\Projects\SFML-SOKOBAN\Debug\SFML-SOKOBAN.pdb (Full PDB)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

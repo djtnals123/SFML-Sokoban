@@ -1,0 +1,16 @@
+﻿  Source.cpp
+c:\sfml-2.4.0\include\sfml\window\windowhandle.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(692): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Generating Code...
+c:\users\d\documents\visual studio 2015\projects\sfml-sokoban\sfml-sokoban\source.cpp(148): warning C4715: 'Sokoban::findLocation': not all control paths return a value
+  Skipping... (no relevant changes detected)
+  Button_.cpp
+  SFML-SOKOBAN.vcxproj -> C:\Users\d\documents\visual studio 2015\Projects\SFML-SOKOBAN\Debug\SFML-SOKOBAN.exe
+  SFML-SOKOBAN.vcxproj -> C:\Users\d\documents\visual studio 2015\Projects\SFML-SOKOBAN\Debug\SFML-SOKOBAN.pdb (Full PDB)
